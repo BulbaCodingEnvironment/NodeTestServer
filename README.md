@@ -1,3 +1,3 @@
 # NodeTestServer
 
-Please add your port in an .env file e.g. PORT=3458
+Please add your port in the .env file at the root of your program e.g. PORT=3458
